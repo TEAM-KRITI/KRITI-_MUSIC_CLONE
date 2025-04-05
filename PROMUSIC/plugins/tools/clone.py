@@ -102,8 +102,8 @@ async def clone_txt(client, message, _):
                 "name": bot.first_name,
                 "token": bot_token,
                 "username": bot.username,
-                "channel": "THE_INCRICIBLE",
-                "support": "ZOYU_SUPPORT",
+                "channel": "TEAM_BADNAM_BOTS",
+                "support": "TEAM_BADNAM_BOTS",
                 "premium" : False,
                 "Date" : False,
             }
@@ -138,7 +138,7 @@ async def clone_txt(client, message, _):
         except BaseException as e:
             logging.exception("Error while cloning bot.")
             await mi.edit_text(
-                f"⚠️ <b>ᴇʀʀᴏʀ:</b>\n\n<code>{e}</code>\n\n**ᴋɪɴᴅʟʏ ғᴏᴡᴀʀᴅ ᴛʜɪs ᴍᴇssᴀɢᴇ ᴛᴏ @llAYUSHI_UPDATEll ᴛᴏ ɢᴇᴛ ᴀssɪsᴛᴀɴᴄᴇ**"
+                f"⚠️ <b>ᴇʀʀᴏʀ:</b>\n\n<code>{e}</code>\n\n**ᴋɪɴᴅʟʏ ғᴏᴡᴀʀᴅ ᴛʜɪs ᴍᴇssᴀɢᴇ ᴛᴏ @TEAM_BADNAM_BOTS ᴛᴏ ɢᴇᴛ ᴀssɪsᴛᴀɴᴄᴇ**"
             )
     else:
         await message.reply_text(_["C_B_H_1"])
