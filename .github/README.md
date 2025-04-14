@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/nkkroq.jpg">
+  <img src="https://files.catbox.moe/i4w0te.jpg">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Badnam019/sudheer-"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAM-KRITI/KRITI-_MUSIC_CLONE"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 
 
