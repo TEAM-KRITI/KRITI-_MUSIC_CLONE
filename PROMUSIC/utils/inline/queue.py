@@ -78,7 +78,7 @@ def aq_markup(_, chat_id):
                 text="˹❍ᴡηєʀ ᴀʙσᴜᴛ˼ ", url=f"https://t.me/YASH_ABOUT_XD_lll"
             ),
             InlineKeyboardButton(
-                text="˹ᴄʜᴧᴛ ɢʀσᴜᴘ˼", url=f"https://t.me/TEAM_BADNAM_BOTS"
+                text="˹ᴄʜᴧᴛ ɢʀσᴜᴘ˼", url=f"https://t.me/KRITI_SUPPORT_CHAT"
             ),
         ],
       ]
