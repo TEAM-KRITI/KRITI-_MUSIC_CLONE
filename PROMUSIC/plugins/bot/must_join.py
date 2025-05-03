@@ -5,7 +5,7 @@ from PROMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "TEAM_BADNAM_BOTS"
+MUST_JOIN = "KRITI_SUPPORT_CHAT"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
